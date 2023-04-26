@@ -1,0 +1,47 @@
+{
+  "mode": "multi-file",
+  "mapping": [
+    {
+      "tokensTheme": "Elli / Light",
+      "supernovaBrand": "Elli",
+      "supernovaTheme": null
+    },
+    {
+      "tokensTheme": "Elli / Dark",
+      "supernovaBrand": "Elli",
+      "supernovaTheme": "Elli Dark"
+    },
+    {
+      "tokensTheme": "Skoda / Light",
+      "supernovaBrand": "Skoda",
+      "supernovaTheme": null
+    },
+    {
+      "tokensTheme": "Skoda / Dark",
+      "supernovaBrand": "Skoda",
+      "supernovaTheme": "Skoda Dark"
+    },
+    {
+      "tokensTheme": "Seat / Light",
+      "supernovaBrand": "Seat",
+      "supernovaTheme": null
+    },
+    {
+      "tokensTheme": "Seat / Dark",
+      "supernovaBrand": "Seat",
+      "supernovaTheme": "Seat Dark"
+    },
+    {
+      "tokensTheme": "Skoda New / Light",
+      "supernovaBrand": "Skoda",
+      "supernovaTheme": "Skoda NEW Light"
+    }
+
+  ],
+  "settings": {
+    "dryRun": false,
+    "verbose": true,
+    "preciseCopy": true
+  }
+}
+
